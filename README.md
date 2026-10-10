@@ -1,1 +1,1 @@
-# -Thesis-Epileptic-seizure-detection
+#Epileptic-seizure-detection
